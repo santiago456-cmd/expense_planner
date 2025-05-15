@@ -6,3 +6,10 @@
 
 Este proyecto es un **planificador de gastos** desarrollado con **React**, **TypeScript** y **Tailwind CSS**. La aplicación te permite registrar tus ingresos y gastos, organizar categorías, y visualizar de manera clara tu estado financiero. Utiliza la **Context API** y el hook **useReducer** para manejar el estado global, comunicado mediante **custom hooks**.
 
+### 🌐 Demo en línea
+
+👉 Puedes probar la aplicación aquí:  
+[https://celebrated-narwhal-5e75c2.netlify.app/)
+
+---
+
